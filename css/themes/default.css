@@ -1,0 +1,16 @@
+:root {
+    --primary: #2c63a5;
+    --primaryLightAlt: #306aaf;
+    --primaryLight: #4c7bb4;
+    --primaryDark: #1c4a80;
+    --outline: #b3b3b3;
+    --fill: #f2f2f2;
+    --white: #ffffff;
+    --temp: #e5e5e5;
+    --text: #808080;
+    --alphaDark: rgba(255, 255, 255, 0.08);
+    --alpha: rgba(255, 255, 255, 0.15);
+    --alphaHover: rgba(255, 255, 255, 0.18);
+    --alphaActive: rgba(255, 255, 255, 0.35);
+    --alphaLight: rgba(255, 255, 255, 0.75);
+}
