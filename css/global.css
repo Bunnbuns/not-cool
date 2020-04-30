@@ -11,3 +11,7 @@ body {
 footer {
     padding: 2rem 0;
 }
+.iframe {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+}
