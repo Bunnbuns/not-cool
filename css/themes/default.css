@@ -1,13 +1,13 @@
 :root {
-    --primary: #2c63a5;
-    --primaryLightAlt: #306aaf;
-    --primaryLight: #4c7bb4;
-    --primaryDark: #1c4a80;
+    --primary: #a52c2c;
+    --primaryLightAlt: #af3030;
+    --primaryLight: #b44c4c;
+    --primaryDark: #801c1c;
     --outline: #b3b3b3;
     --fill: #f2f2f2;
     --white: #ffffff;
     --temp: #e5e5e5;
-    --text: #808080;
+    --text: #4e4e4e;
     --alphaDark: rgba(255, 255, 255, 0.08);
     --alpha: rgba(255, 255, 255, 0.15);
     --alphaHover: rgba(255, 255, 255, 0.18);
