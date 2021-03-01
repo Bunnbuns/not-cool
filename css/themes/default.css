@@ -1,16 +1,20 @@
 :root {
-    --primary: #a52c2c;
-    --primaryLightAlt: #af3030;
-    --primaryLight: #b44c4c;
-    --primaryDark: #801c1c;
-    --outline: #b3b3b3;
-    --fill: #f2f2f2;
-    --white: #ffffff;
-    --temp: #e5e5e5;
-    --text: #4e4e4e;
-    --alphaDark: rgba(255, 255, 255, 0.08);
-    --alpha: rgba(255, 255, 255, 0.15);
-    --alphaHover: rgba(255, 255, 255, 0.18);
-    --alphaActive: rgba(255, 255, 255, 0.35);
-    --alphaLight: rgba(255, 255, 255, 0.75);
+    --primaryShape: #a52c2c;
+    --primaryShapeLight: #b44c4c;
+    --primaryShapeDark: #801c1c;
+    
+    --primaryText: #a52c2c;    
+    --primaryTextLight: #b44c4c;
+    --primaryTextDark: #801c1c;
+    
+    --secondaryShape: #af3030;
+    --secondaryText: #af3030;
+    
+    --background: #f2f2f2;
+    --backgroundDark: #b3b3b3;
+    --backgroundLight: #ffffff;
+    --backgroundTemp: #e5e5e5;
+    
+    --text: #808080;
+    --textLight: #ffffff;
 }
