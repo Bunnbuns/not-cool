@@ -1,17 +1,25 @@
 body {
     font-size: 1.1rem;
 }
+
 .hero-full {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
 .nav .nav-items .primaryAlt {
     margin-right: 0;
 }
+
 footer {
     padding: 2rem 0;
 }
+
 .iframe {
     display: inline-block;
     margin-bottom: 1.5rem;
+}
+
+.button, a {
+    transition: .1s ease-in-out;
 }
